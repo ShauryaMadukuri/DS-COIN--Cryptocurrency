@@ -8,7 +8,7 @@
 -  Implemented tree structure of blockchain besides linked list, to detect malicious miners in decentralized process
 
 
-- Can be find detailed description of the project in the file `Project Description.pdf`.
+- Detailed description of the project can be found in the file `Project Description.pdf`.
 - Example of the working model without and with malicious miners can be found in the file `workmodel example_Honest Miners.pdf` and `Workmodel example_Malicious Miners.pdf`
 
 
